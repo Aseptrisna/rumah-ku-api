@@ -1,0 +1,16 @@
+{
+  "name": "api-rumah-ku",
+  "version": "1.0.0",
+  "description": "Api Untuk Project Integrasi atau imlementasi IoT Di Lingkungan Rumah",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "iot",
+    "nodejs",
+    "react"
+  ],
+  "author": "Asep Trisna Setiawan",
+  "license": "ISC"
+}
